@@ -1,9 +1,13 @@
 ## first-project
 # Ahmed Qeshta
 ## Developer
+<<<<<<< Updated upstream
 # Alaa Qeshta
 ## UX / UX Design
 ## mOHAMMAD
+=======
+## mohammadqishta
+>>>>>>> Stashed changes
 This is the first project for us
 =======
 <<<<<<< HEAD
